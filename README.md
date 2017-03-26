@@ -1,0 +1,2 @@
+# minegishi
+githubの練習
